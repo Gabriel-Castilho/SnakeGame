@@ -8,9 +8,9 @@ Adicionado novas funcionalidades
 * Dificuldade
 
 Na dificuldade tradicional, a cobrinha pode atravesar de um lado para 
-outro. Já na díficil ao encostar na parede, o jogo acaba.
+outro. Já na difícil ao encostar na parede, o jogo acaba.
 
-Imagens da pontuação e da dificil respectivamente.
+Imagens da pontuação e da difícil respectivamente.
 
 ![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/1.png)
 
