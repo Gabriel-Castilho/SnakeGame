@@ -14,4 +14,5 @@ Imagens da pontuação e da dificil díficil.
 
 ![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/1.png)
 
-![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/2.png)
+![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/2.PNG)
+
