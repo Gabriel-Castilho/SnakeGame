@@ -12,6 +12,6 @@ outro. Já na díficil ao encostar na parede, o jogo acaba.
 
 Imagens da pontuação e da dificil díficil.
 
-![Pontuação](img/1)
+![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/1.png)
 
-![Dificuldade](img/2)
+![alt text](https://github.com/Gabriel-Castilho/SnakeGame/blob/master/img/1.png)
