@@ -1,0 +1,29 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.buttons {
+    margin: 5px;
+    align-items: right;
+
+}
+
+.play-game{
+    margin: 10px 0 10px 0;
+    width:133px;
+    background-color: green;
+    color: white
+
+}
+
+.points{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
